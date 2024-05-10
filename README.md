@@ -21,9 +21,9 @@ It can solve complex expressions like:       2×3(7-6)÷8, 2+7/8-6 etc.
 
 ## Screens
 <p float="left">
-  <img src="https://github.com/AbdelkarimDouadjia/Compose-Calculator/blob/main/img/app1.png" height="600" width="250" >
-  <img src="https://github.com/AbdelkarimDouadjia/Compose-Calculator/blob/main/img/app2.png" height="600" width="250" >
-  <img src="https://github.com/AbdelkarimDouadjia/Compose-Calculator/blob/main/img/app3.png" height="600" width="250" >
-  <img src="https://github.com/AbdelkarimDouadjia/Compose-Calculator/blob/main/img/app4.png" height="600" width="250" >
+  <img src="https://github.com/AbdelkarimDouadjia/Compose-Calculator/blob/main/img/app1.png" height="600" width="270" >
+  <img src="https://github.com/AbdelkarimDouadjia/Compose-Calculator/blob/main/img/app2.png" height="600" width="270" >
+  <img src="https://github.com/AbdelkarimDouadjia/Compose-Calculator/blob/main/img/app3.png" height="600" width="270" >
+  <img src="https://github.com/AbdelkarimDouadjia/Compose-Calculator/blob/main/img/app4.png" height="600" width="270" >
 </p>
 
